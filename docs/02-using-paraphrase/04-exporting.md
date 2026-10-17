@@ -2,7 +2,7 @@
 title: Exporting
 nav: Exporting
 slug: exporting
-description: "Exporting a Paraphrase project as WAV, FLAC, MP3, M4A, Opus or MP4 video."
+description: "How to export a Paraphrase project as WAV, FLAC, MP3, M4A or Opus audio, or as MP4 video with the picture cut at the same words."
 ---
 
 # Exporting

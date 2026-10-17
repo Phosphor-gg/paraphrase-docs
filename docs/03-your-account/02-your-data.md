@@ -2,7 +2,7 @@
 title: Your recordings and data
 nav: Your recordings and data
 slug: your-data
-description: "Why Paraphrase keeps your original recording, how to delete it, and what is never done with it."
+description: "Why Paraphrase keeps your original recording, how to delete a recording or your whole account, and what is never done with your audio."
 ---
 
 # Your recordings and data

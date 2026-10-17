@@ -2,7 +2,7 @@
 title: Credits, plans and limits
 nav: Credits, plans and limits
 slug: credits-and-plans
-description: "How Paraphrase credits work, what Premium includes, and the limits on each plan."
+description: "How Paraphrase credits work, what the free plan and Premium include, and the daily AI cleanup and project length limits on each plan."
 ---
 
 # Credits, plans and limits
