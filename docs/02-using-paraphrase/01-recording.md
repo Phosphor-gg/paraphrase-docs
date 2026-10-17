@@ -11,7 +11,7 @@ The three ways to add a take to a project, and how long one can be.
 
 ## Recording in the browser
 
-Press Record in a project and allow the microphone when the browser asks. The take is saved to the project as you record, a few seconds at a time, so closing the tab or losing the connection does not lose what was already sent. If the connection drops, the recorder says how many seconds are waiting to be saved and sends them when it comes back.
+Press Record in a project and allow the microphone when the browser asks. The take is saved to the project as you record, about a second at a time, so closing the tab or losing the connection does not lose what was already sent. If the connection drops, the recorder says how many seconds are waiting to be saved and sends them when it comes back.
 
 ## Uploading a file
 
