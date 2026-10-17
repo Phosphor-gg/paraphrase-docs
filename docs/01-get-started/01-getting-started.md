@@ -22,3 +22,7 @@ Once the transcript is there, edit it. Press Clean up with AI to have the cleanu
 ## What an edit is
 
 An edit is a choice of which of your words stay and in what order. The export cuts your original recording at those words and joins the pieces back up. Nothing is generated, so the result can only contain words you said.
+
+## Getting help
+
+Email [help@phosphor.gg](mailto:help@phosphor.gg), or ask in the [Paraphrase Discord](https://discord.paraphrase.bot), whichever you prefer. If a take could not be processed, its project's editor says why, which tells you whether sending it again will help.
