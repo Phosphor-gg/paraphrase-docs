@@ -25,4 +25,4 @@ An edit is a choice of which of your words stay and in what order. The export cu
 
 ## Getting help
 
-Email [help@phosphor.gg](mailto:help@phosphor.gg), or ask in the [Paraphrase Discord](https://discord.com/invite/Ef36rWvCXm), whichever you prefer. If a take could not be processed, its project's editor says why, which tells you whether sending it again will help.
+Email [help@phosphor.gg](mailto:help@phosphor.gg), or ask in the [Paraphrase Discord](https://discord.paraphrase.bot), whichever you prefer. If a take could not be processed, its project's editor says why, which tells you whether sending it again will help.
